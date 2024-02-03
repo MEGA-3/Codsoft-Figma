@@ -1,4 +1,4 @@
-# Codsoft-Figma
+# Codsoft-Figma Task 1
 
 Task 1 :
 Mobile App Sign Up flow 
